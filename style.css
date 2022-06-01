@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+  }
+  body {
+    line-height: 1;
+    color: black;
+    background: white;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  ol, ul {
+    list-style: none;
+  }
+  em {
+    font-style: italic;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  html {
+    box-sizing: border-box;
+  }
+  *,*:after,*:before {
+    box-sizing: inherit;
+  }
+  body {
+    color: #ffffff;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    text-decoration: none;
+  }
+  body {
+    float: none;
+    height: 720px;
+    margin: 0 auto;
+    min-height: 720px;
+    position: relative;
+    width: 1125px;
+  }
+  .main-bg {
+    height: 720px;
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 1125px;
+    background: #4d42df;
+    margin-left: -562.5px;
+  }
+  .bg-shape {
+    left: 50%;
+    min-height: 720px;
+    padding: 44px 43px;
+    position: absolute;
+    top: 0;
+    width: 1125px;
+    background: url(images/shape.png) no-repeat;
+    margin-left: -562.5px;
+  }
+  .row {
+    margin: 0 87px 0 172px;
+    overflow: hidden;
+    position: relative;
+  }
+  .ellipse-5 {
+    float: left;
+    height: 99px;
+    margin: 0 582px 0 0;
+    width: 99px;
+    border-radius: 50%;
+    background: #4d26c4;
+  }
+  .ellipse-1 {
+    float: left;
+    height: 99px;
+    margin: 24px 0 0;
+    width: 99px;
+    border-radius: 50%;
+    background:#4d26c4;
+  }
+  .row-2 {
+    left: 12px;
+    margin: -3px auto 0;
+    position: relative;
+    width: 1015px;
+  }
+  .ellipse-4 {
+    float: left;
+    height: 99px;
+    margin: 326px 0 0;
+    width: 99px;
+    border-radius: 50%;
+    /* #4d26c4; */
+  }
+  .wrapper-4 {
+    float: left;
+    height: 464px;
+    margin: 0 0 0 134px;
+    position: relative;
+    width: 575px;
+  }
+  .ellipse-3 {
+    height: 99px;
+    left: 50%;
+    position: absolute;
+    top: 354px;
+    width: 99px;
+    border-radius: 50%;
+    background: #4d26c4;
+    margin-left: 188.5px;
+  }
+  .login-form {
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 525px;
+    margin-left: -287.5px;
+  }
+  .text {
+    font-size: 1.6875em;
+    font-weight: 600;
+    text-align: center;
+  }
+  .col-2 {
+    margin: 40px auto 0;
+    min-height: 333px;
+    padding: 37px 0 30px;
+    position: relative;
+    border-radius: 8px;
+    background:#4d26c4;
+    box-shadow: 0 10px 27.52px 4.48px rgba(120, 120, 120, 0.22);
+  }
+  .text-2 {
+    font-size: 0.904987em;
+    font-weight: 600;
+    text-align: center;
+  }
+  .user-name {
+    margin: 26px auto 0;
+    min-height: 48px;
+    padding: 18px 35px 16px;
+    position: relative;
+    width: 301px;
+    border-radius: 24px;
+    background: #ffffff;
+  }
+  .text-3 {
+    float: left;
+    margin: 1px 17px 0 0;
+    color: #5e5e5e;
+    font-family: FontAwesome5Free-Solid, serif;
+    font-size: 0.84375em;
+  }
+  .text-4 {
+    color: #5e5e5e;
+    font-size: 0.84375em;
+  }
+  .password {
+    margin: 14px auto 0;
+    min-height: 48px;
+    padding: 19px 35px 15px;
+    position: relative;
+    width: 301px;
+    border-radius: 24px;
+    background: #ffffff;
+  }
+  .text-5 {
+    float: left;
+    margin: 1px 17px 0 0;
+    color: #5e5e5e;
+    font-family: FontAwesome5Free-Solid, serif;
+    font-size: 0.84375em;
+  }
+  .passowrd {
+    color: #5e5e5e;
+    font-size: 0.84375em;
+  }
+  .row-3 {
+    display: table;
+    margin: 22px auto 0;
+    position: relative;
+  }
+  .check {
+    float: left;
+  }
+  .text-6 {
+    float: left;
+    margin: 0 0 0 7px;
+    font-size: 0.5625em;
+    font-weight: 300;
+  }
+  .text-7 {
+    float: left;
+    margin: 0 0 0 110px;
+    font-size: 0.5625em;
+    font-weight: 300;
+  }
+  .login-btn {
+    display: table;
+    margin: 33px auto 0;
+    min-height: 48px;
+    padding: 0 60px;
+    border-radius: 24px;
+    background: #ffffff;
+    color: #5e5e5e;
+    font-size: 0.9375em;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: center;
+  }
+  .text-8 {
+    margin: 44px 0 0;
+    font-size: 0.9375em;
+    font-weight: 500;
+    text-align: center;
+  }
+  .ellipse-2 {
+    float: left;
+    height: 99px;
+    margin: 231px 0 0 108px;
+    width: 99px;
+    border-radius: 50%;
+    background: #4d26c4;
+  }
+  .text-style {
+    text-decoration: underline;
+  }
